@@ -1,2 +1,2 @@
-# LeetCode_solution
+# LeetCode_Solution
 mfp's LeetCode solution
