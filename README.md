@@ -13,3 +13,9 @@ mfp's LeetCode solution
 
 [a-0179](https://leetcode-cn.com/problems/largest-number/)   python
 
+### 2021-04-15
+
+[a-0198](https://leetcode-cn.com/problems/house-robber/)   python   (daily)
+
+[a-0213](https://leetcode-cn.com/problems/house-robber-ii/)   python
+
