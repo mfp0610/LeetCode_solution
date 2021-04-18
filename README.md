@@ -7,20 +7,22 @@ mfp's LeetCode solution
 
 ### 2021-04-13
 
-[a-0783](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)   cpp   (daily)
+[algo-0783](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)   cpp   (daily)
 
-[a-0530](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)   cpp
+[algo-0530](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)   cpp
 
-[a-0179](https://leetcode-cn.com/problems/largest-number/)   python
+[algo-0179](https://leetcode-cn.com/problems/largest-number/)   python
 
 ### 2021-04-15
 
-[a-0198](https://leetcode-cn.com/problems/house-robber/)   cpp   (daily)
+[algo-0198](https://leetcode-cn.com/problems/house-robber/)   cpp   (daily)
 
-[a-0213](https://leetcode-cn.com/problems/house-robber-ii/)   cpp
+[algo-0213](https://leetcode-cn.com/problems/house-robber-ii/)   cpp
 
 ### 2021-04-18
 
-[a-0026](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)   cpp   (daily)
+[algo-0026](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)   cpp   (daily)
 
-[a-0765](https://leetcode-cn.com/problems/couples-holding-hands/)   cpp
+[algo-0765](https://leetcode-cn.com/problems/couples-holding-hands/)   cpp
+
+[algo-1822](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/)   cpp
