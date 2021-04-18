@@ -19,3 +19,8 @@ mfp's LeetCode solution
 
 [a-0213](https://leetcode-cn.com/problems/house-robber-ii/)   cpp
 
+### 2021-04-18
+
+[a-0026](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)   cpp   (daily)
+
+[a-0765](https://leetcode-cn.com/problems/couples-holding-hands/)   cpp
