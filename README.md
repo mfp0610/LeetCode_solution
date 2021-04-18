@@ -26,3 +26,5 @@ mfp's LeetCode solution
 [algo-0765](https://leetcode-cn.com/problems/couples-holding-hands/)   cpp
 
 [algo-1822](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/)   cpp
+
+[offer-64](https://leetcode-cn.com/problems/qiu-12n-lcof/)   cpp
